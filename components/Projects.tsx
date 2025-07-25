@@ -40,7 +40,7 @@ const Projects = () => (
       {/* Portfolio Website Project */}
       <ParallaxTilt glareEnable={true} glareMaxOpacity={0.2} scale={1.05} transitionSpeed={1500} className="rounded-xl">
         <div className="bg-[#232b47] rounded-xl p-6 shadow-md flex flex-col items-start h-full">
-          <img src="/my_portfolio.jpeg" alt="Portfolio Website" className="w-full h-40 object-cover rounded-lg mb-4" />
+          <img src="https://drive.google.com/uc?export=view&id=14ibJGCzx_bATEzeewu5Ar4CQKSpZJmMz" alt="Portfolio Website" className="w-full h-40 object-cover rounded-lg mb-4" />
           <h3 className="text-xl font-bold text-white mb-2">Portfolio Website</h3>
           <p className="text-slate-300 mb-4">A personal portfolio to showcase my projects, skills, and achievements, built with React and Tailwind CSS.</p>
           <div className="flex gap-3 mt-auto">
@@ -52,7 +52,7 @@ const Projects = () => (
       {/* AI Chatbot Project */}
       <ParallaxTilt glareEnable={true} glareMaxOpacity={0.2} scale={1.05} transitionSpeed={1500} className="rounded-xl">
         <div className="bg-[#232b47] rounded-xl p-6 shadow-md flex flex-col items-start h-full">
-          <img src="/chat_bot.jpeg" alt="AI Chatbot" className="w-full h-40 object-cover rounded-lg mb-4" />
+          <img src="https://drive.google.com/uc?export=view&id=1_n6SIS_TOG06dove3f0E85gQYgtbQ-c5" alt="AI Chatbot" className="w-full h-40 object-cover rounded-lg mb-4" />
           <h3 className="text-xl font-bold text-white mb-2">AI Chatbot</h3>
           <p className="text-slate-300 mb-4">A smart chatbot that helps students with instant answers and explanations, built using HTML, CSS, JavaScript, and Google AI Studio (Gemini API).</p>
           <div className="flex gap-3 mt-auto">
@@ -64,7 +64,7 @@ const Projects = () => (
       {/* Short Music Tunes Project */}
       <ParallaxTilt glareEnable={true} glareMaxOpacity={0.2} scale={1.05} transitionSpeed={1500} className="rounded-xl">
         <div className="bg-[#232b47] rounded-xl p-6 shadow-md flex flex-col items-start h-full">
-          <img src="/short_music_tunes.jpeg" alt="Short Music Tunes" className="w-full h-40 object-cover rounded-lg mb-4" />
+          <img src="https://drive.google.com/uc?export=view&id=10D7wGE6_E6l83hgZyCJ0eQqY081oYu4z" alt="Short Music Tunes" className="w-full h-40 object-cover rounded-lg mb-4" />
           <h3 className="text-xl font-bold text-white mb-2">Short Music Tunes</h3>
           <p className="text-slate-300 mb-4">Built a responsive web app using HTML, CSS, and JavaScript that lets users search and play short music previews using the iTunes API.</p>
           <div className="flex gap-3 mt-auto">
@@ -76,7 +76,7 @@ const Projects = () => (
       {/* Hostel Food Feedback System Project */}
       <ParallaxTilt glareEnable={true} glareMaxOpacity={0.2} scale={1.05} transitionSpeed={1500} className="rounded-xl">
         <div className="bg-[#232b47] rounded-xl p-6 shadow-md flex flex-col items-start h-full">
-          <img src="/hostel_food.jpeg" alt="Hostel Food Feedback System" className="w-full h-40 object-cover rounded-lg mb-4" />
+          <img src="https://drive.google.com/uc?export=view&id=1anPDjQRtb4YYzOWFSYFdFX3RFDtJrrEL" alt="Hostel Food Feedback System" className="w-full h-40 object-cover rounded-lg mb-4" />
           <h3 className="text-xl font-bold text-white mb-2">Hostel Food Feedback System</h3>
           <p className="text-slate-300 mb-4">A web app for students to submit daily food feedback and for admins to manage menus and complaints using a user-friendly dashboard.</p>
           <div className="flex gap-3 mt-auto">

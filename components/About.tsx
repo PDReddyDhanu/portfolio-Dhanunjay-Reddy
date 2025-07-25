@@ -23,6 +23,7 @@ const About = () => (
         <p>
             I'm deeply motivated by a love for continuous learning, emerging technologies like Generative AI, and open-source contribution. My goal is to create impactful, user-centric software that bridges innovation and practicality.
         </p>
+        <a href="https://drive.google.com/uc?export=download&id=1Zp-P_BI3cBnT_fVb1zIkocULXjHVPu-e" target="_blank" rel="noopener noreferrer">Download Resume</a>
       </div>
     </section>
   </ParallaxTilt>
