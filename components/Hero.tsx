@@ -24,7 +24,7 @@ const Hero = () => (
       >
         <span className="absolute inset-0 rounded-full bg-gradient-to-tr from-blue-500 via-purple-500 to-pink-500 blur-xl opacity-60 animate-pulse z-0" style={{ filter: 'blur(16px)' }}></span>
         <img
-          src="https://drive.google.com/uc?export=view&id=1djCJShMaVppXmgAJoWX6W6CiM_EoCEV-"
+          src="/profile.jpg"
           alt="Palakolanu Dhanunjay Reddy profile"
           className="mx-auto rounded-full w-40 h-40 object-cover border-4 border-blue-400 shadow-lg relative z-10"
           style={{ boxShadow: '0 0 32px 4px #6366f1, 0 0 0 8px #181f36' }}
